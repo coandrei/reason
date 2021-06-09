@@ -1,10 +1,9 @@
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coandrei/reason/0f23280f3f27476644eba3cd5a9b64c89faceab5)
 <h1>reason</h1>
 
 ### Notebook binders
 - Demonstrate how to read a navigation file in rinex format [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coandrei/reason/HEAD?filepath=notebook%2Fexample_navdata.ipynb)
-- Explore Galileo timing parameters [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coandrei/reason/0f23280f3f27476644eba3cd5a9b64c89faceab5)
-
+- Explore Galileo timing parameters [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coandrei/reason/HEAD?filepath=notebook%2Fgalileo_timing.ipynb)
 
 ### Research papers
 - Andrei, C.-O., Lahtinen, S., Poutanen, M., Koivula, H., and Johansson, J. [Galileo L10 Satellites: Orbit, Clock and Signal-in-Space Performance Analysis](https://www.mdpi.com/1424-8220/21/5/1695/htm). Sensors 2021, 21, 1695. https://doi.org/10.3390/s21051695 
